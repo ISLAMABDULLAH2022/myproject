@@ -1,7 +1,14 @@
 h1{
     color: blue;
     background-color: brown;
+<<<<<<< HEAD
 }
 body{
     background-color: cadetblue;
+=======
+    text-align: center;
+}
+body{
+    background-color: chartreuse;
+>>>>>>> islam
 }
